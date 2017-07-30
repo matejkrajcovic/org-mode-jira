@@ -1,0 +1,6 @@
+[package]
+name = "org-mode-jira"
+version = "0.1.0"
+authors = ["Matej Krajčovič <matej@krajcovic.org>"]
+
+[dependencies]
